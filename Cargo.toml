@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "base",
+    "client",
+    "server",
+    "smart_device",
+]
